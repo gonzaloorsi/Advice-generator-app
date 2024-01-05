@@ -79,7 +79,7 @@
   
   }
   
-  .ask:hover {
+  .ask:active {
     box-shadow: 2px 0.5px 32px 0px #53ffaa;
   }
 
